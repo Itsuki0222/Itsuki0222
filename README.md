@@ -2,6 +2,10 @@ I like programming and Linux.
 
 プログラミングとLinuxが好きです。
 
+KryptonというLinuxディストロを開発しています。
+
+実は小学六年生です
+
 <p align="left">
   <a href="https://github.com/Itsuki0222">
     <img height="20" src="https://komarev.com/ghpvc/?username=Itsuki0222" />
