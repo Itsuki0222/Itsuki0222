@@ -6,6 +6,9 @@ KryptonというLinuxディストロを開発しています。
 
 実は小学六年生です
 
+https://itsuki0222.github.io/pong-game-js/
+↑謎のピンポンゲーム的なもの。
+
 <p align="left">
   <a href="https://github.com/Itsuki0222">
     <img height="20" src="https://komarev.com/ghpvc/?username=Itsuki0222" />
