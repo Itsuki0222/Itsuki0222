@@ -4,7 +4,7 @@ I like programming and Linux.
 
 KryptonというLinuxディストロを開発しています。
 
-実は小学六年生です
+小学六年生です
 
 https://itsuki0222.github.io/pong-game-js/
 
