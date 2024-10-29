@@ -13,7 +13,6 @@ https://itsuki0222.github.io/pong-game-js/
 <p align="left">
   <a href="https://github.com/Itsuki0222">
     <img height="20" src="https://komarev.com/ghpvc/?username=Itsuki0222" />
-    html多くね...
   </a>
   <a href="https://github.com/Itsuki0222">
     <img height="20" src="https://img.shields.io/github/followers/Itsuki0222?label=follow&logo=github&style=flat" />
