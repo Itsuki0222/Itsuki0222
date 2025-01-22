@@ -18,7 +18,7 @@ https://itsuki0222.github.io/pong-game-js/
     <img height="20" src="https://img.shields.io/github/followers/Itsuki0222?label=follow&logo=github&style=flat" />
   </a>
 </p>
-(気づかないうちにプロフィールの参照数が100突破してた!!) あとフォロワー0人笑
+`だれか一人ぐらいフォローしてくれよ...`
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itsuki0222&theme=gruvbox)
