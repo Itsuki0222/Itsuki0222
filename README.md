@@ -18,6 +18,7 @@ https://itsuki0222.github.io/pong-game-js/
     <img height="20" src="https://img.shields.io/github/followers/Itsuki0222?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
 `だれか一人ぐらいフォローしてくれよ...`
 
 ## Stats
