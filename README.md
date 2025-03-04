@@ -25,6 +25,8 @@ https://itsuki0222.github.io/pong-game-js/
   </a>
 </p>
 
+Profile viewsがやけに多い
+
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itsuki0222&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Itsuki0222&theme=gruvbox)
