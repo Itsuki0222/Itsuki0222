@@ -10,7 +10,7 @@ Archは神です。
 
 ↑もうやめろ
 
-C言語、C++、Python、Javascriptを完全に理解しました。
+C言語、C++、Python、Javascriptは「完全に理解した」です((((
 
 https://itsuki0222.github.io/pong-game-js/
 
