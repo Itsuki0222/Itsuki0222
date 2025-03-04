@@ -2,7 +2,7 @@ KryptonというLinuxディストロを開発していますが、更新頻度�
 
 まだギリギリ小学生です。
 
-基本的にArch Linuxは神だと思ってます。なのでメインPCのOSはArchです。
+Arch Linuxは神だと思ってます。なのでメインPCのOSはArchです。
 
 Archは神です。
 
