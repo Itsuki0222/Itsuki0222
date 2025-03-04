@@ -1,14 +1,20 @@
-I like programming and Linux.
-
-プログラミングとLinuxが好きです。
-
 KryptonというLinuxディストロを開発しています。
 
-小学六年生です
+まだギリギリ小学生です。
+
+基本的にArch Linuxは神だと思ってます。なのでメインPCのOSはArchです。
+
+Archは神です。
+
+復唱してください。Archは神です
+
+↑もうやめろ
+
+C言語、C++、Python、Javascriptを完全に理解しました。
 
 https://itsuki0222.github.io/pong-game-js/
 
-↑謎のピンポンゲーム的なもの。
+謎のピンポンゲーム的なもの。
 
 <p align="left">
   <a href="https://github.com/Itsuki0222">
