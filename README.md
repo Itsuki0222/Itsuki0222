@@ -6,7 +6,11 @@ Acrh信者
 
 現在、SBCでタブレットを自作する計画を立てています。
 
-KryptonというLinuxディストロを開発していますが、更新頻度は激遅です。
+Krypton LinuxというLinuxディストロを開発していますが、更新頻度は激遅です。
+
+https://forms.gle/fTCMhaT6fwK9iAHL7
+
+Krypton Linuxのへの参加を申請するには↑のフォームに回答してください。
 
 Arch Linuxは神だと思ってます。なのでメインPCのOSはArchです。
 
