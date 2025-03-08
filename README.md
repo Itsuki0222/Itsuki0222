@@ -1,4 +1,4 @@
-# Hi, I'm Ituski👋
+# Hi👋, I'm Ituski
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Itsuki0222&color=blue)
 
