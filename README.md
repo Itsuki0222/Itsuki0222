@@ -12,15 +12,13 @@ https://forms.gle/fTCMhaT6fwK9iAHL7
 
 Krypton Linuxのへの参加を申請するには↑のフォームに回答してください。
 
-Arch Linuxは神だと思ってます。なのでメインPCのOSはArchです。
+Arch Linuxは最高だと思ってます。
 
-Archは神です。
+C言語、C++、Python、Javascriptが中途半端に使えます。
 
-復唱してください。Archは神です
+Rustを学びたいです。
 
-↑もうやめろ
-
-C言語、C++、Python、Javascriptは「完全に理解した」です((((
+連絡先: krypton@f5.si
 
 https://itsuki0222.github.io/pong-game-js/
 
