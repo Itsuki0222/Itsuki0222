@@ -1,5 +1,7 @@
 # Hi, I'm Ituski👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Itsuki0222&color=blue)
+
 ## About me
 I am an elementary school student and enjoy programming and using Linux.
 
