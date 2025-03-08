@@ -16,10 +16,10 @@ Contact us: krypton@f5.si
 
 ## Languages studied or being studied
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c.svg" width=128px height=128px></img>
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width=128px height=128px></img>
-    <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python.svg" width=128px height=128px></img>
-    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.svg" width=128px height=128px></img>
+    <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c.svg" width=64px height=64px></img>
+    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width=64px height=64px></img>
+    <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python.svg" width=64px height=64px></img>
+    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.svg" width=64px height=64px></img>
 </div>
 
 ## 
