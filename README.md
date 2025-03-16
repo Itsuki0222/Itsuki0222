@@ -22,7 +22,7 @@ Contact us: krypton@f5.si
     <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c.svg" width=64px height=64px>
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width=64px height=64px>
     <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python.svg" width=64px height=64px>
-    <img src="https://static.cdnlogo.com/logos/r/88/rust.svg" width=64px height=64px>
+    <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height=64px width=64px>
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.svg" width=64px height=64px>
 </div>
 
