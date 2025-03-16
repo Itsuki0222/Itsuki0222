@@ -18,7 +18,6 @@ You can apply to join the Krypton Linux development team using this form.
 
 Contact us: krypton@f5.si
 
-## Languages studied or being studied
 <div align="center">
     <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c.svg" width=64px height=64px>
     <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg" width=64px height=64px>
