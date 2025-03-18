@@ -1,22 +1,22 @@
-# Hi👋, I'm Ituski
+# Hello!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Itsuki0222&color=blue)
 
-My homepage: https://itsuki0222.f5.si (under development)
+ホームページらしきもの: https://itsuki0222.f5.si (開発中)
 
 ## About me
-I am an elementary school student and enjoy programming and using Linux.
+現在12歳。
 
-I am Japanese, mostly Japanese and not so good in English.
+とくにこれといって決まったことをしているわけでもないですが、C言語やPythonでなにかを作ったりLinuxをいじったりしてます。
 
-I am developing a Linux distribution based on Arch Linux called Krypton Linux.
+Krypton LinuxというArchベースのLinuxディストロを作ってます。
 
 i use arch btw
 
 https://forms.gle/TkPyJ2DinzBatfoj7
-You can apply to join the Krypton Linux development team using this form.
+このフォームからKrypton Linuxの開発チームへの参加を申請できます。
 
-Contact us: krypton@f5.si
+Contact: krypton@f5.si
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c.svg" width=64px height=64px>
