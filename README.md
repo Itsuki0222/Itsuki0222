@@ -13,6 +13,10 @@ Krypton LinuxというArchベースのLinuxディストロを作ってます。
 
 i use arch btw
 
+このpfp、最近英語から日本語に戻しました。
+
+特に理由はないです。
+
 https://forms.gle/TkPyJ2DinzBatfoj7
 このフォームからKrypton Linuxの開発チームへの参加を申請できます。
 
