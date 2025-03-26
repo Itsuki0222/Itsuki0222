@@ -37,3 +37,9 @@ Contact: krypton@f5.si
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Itsuki0222&theme=2077)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Itsuki0222&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/master/img/snake.svg">
+</picture>
