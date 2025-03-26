@@ -38,6 +38,8 @@ Contact: krypton@f5.si
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Itsuki0222&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 
+ただでさえ少ないスッカスカContributionsを食べてしまうヘビ↓
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake.svg">
