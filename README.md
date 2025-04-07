@@ -11,20 +11,18 @@
 
 ---
 
-とりあえず面白そうだと思ったことことはやってみて、爆散したりなぜか成功したりする人間。
+とりあえず面白そうだと思ったことことはやってみる方針です。
 
-とくにこれといって決まったことをしているわけでもないですが、C言語やPythonでなにかを作ったりLinuxをいじったりしてます。
+C言語やPythonでなにかを作ったりLinuxをいじったりしてます。
 
-Krypton LinuxというArchベースのLinuxディストロを作ってます。
+小6の夏休みの自由研究で、Krypton LinuxというLinuxディストロを作りました。今でも開発を続けてます。
 
-i use arch btw
-
-このpfp、最近英語から日本語に戻しました。
-
-特に理由はないです。
+そろそろまた一つなにか作り始めたいなーと思ってます。
 
 https://forms.gle/TkPyJ2DinzBatfoj7
 このフォームからKrypton Linuxの開発チームへの参加を申請できます。
+
+あと、最近Jekyllを使ってるんですけど、なかなかうまくいきません。助けて
 
 Contact: krypton@f5.si
 
@@ -51,3 +49,9 @@ Contact: krypton@f5.si
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake.svg">
 </picture>
+
+
+
+
+
+i use arch btw
