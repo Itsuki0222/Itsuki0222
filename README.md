@@ -46,7 +46,7 @@ Contact: krypton@f5.si
 <p>
     <img src="https://static.cdnlogo.com/logos/g/15/git-icon.svg" heignt=64px width=64px>
     <img src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/github.svg" height=64px width=64px>
-    <img src="https://static.cdnlogo.com/logos/n/68/npm.svg">
+    <img src="https://static.cdnlogo.com/logos/n/68/npm.svg" height=64px width=auto>
 </p>
 
 ## 
