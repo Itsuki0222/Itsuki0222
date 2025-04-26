@@ -35,7 +35,6 @@ Contact: krypton@f5.si
 ### フレームワーク、ライブラリ系
 
 <p>
-    <img src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/github.svg" height=64px width=64px>
     <img src="https://static.cdnlogo.com/logos/q/43/qt.svg" height=64px width=auto>
     <img src="https://static.cdnlogo.com/logos/e/44/electron.svg" width=64px height=64px>
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height=64px width=auto>
