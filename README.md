@@ -2,13 +2,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Itsuki0222&color=blue)
 
-ホームページらしきもの: https://itsuki0222.f5.si (開発中)
+ホームページらしきもの: https://itsuki0222.f5.si (作成中)
 
 ## About me
-
-フォロバ77%(?)
-
-とりあえず面白そうだと思ったことことはやってみる方針です。
 
 C言語やPythonでなにかを作ったりLinuxをいじったりしてます。
 
@@ -19,7 +15,7 @@ C言語やPythonでなにかを作ったりLinuxをいじったりしてます�
 https://forms.gle/TkPyJ2DinzBatfoj7
 このフォームからKrypton Linuxの開発チームへの参加を申請できます。
 
-あと、最近Jekyllを使ってるんですけど、なかなかうまくいきません。助けて
+最近Krypton Linuxのパッケージ署名と新デスクトップの準備をしています。
 
 Contact: krypton@f5.si
 
