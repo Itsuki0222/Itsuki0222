@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Itsuki0222&color=blue)
 
-ホームページらしきもの: https://itsuki0222.f5.si (作成中)
+ホームページらしきもの: https://itsuki0222.f5.si
 
 ## About me
 
