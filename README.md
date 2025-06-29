@@ -19,7 +19,7 @@ https://forms.gle/TkPyJ2DinzBatfoj7
 
 Contact: krypton@f5.si
 
-## 使ったことのある言語、ツール、フレームワーク、OSとか↓
+## 触れたことのある言語、ツール、フレームワーク、OSとか↓
 
 ### 言語
 
