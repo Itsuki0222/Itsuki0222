@@ -37,7 +37,6 @@ Contact: krypton@f5.si
 <p>
     <img src="https://static.cdnlogo.com/logos/q/43/qt.svg" height=64px width=auto>
     <img src="https://static.cdnlogo.com/logos/e/44/electron.svg" width=64px height=64px>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height=64px width=auto>
 </p>
 
 ### ツール
