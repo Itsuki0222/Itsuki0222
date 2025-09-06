@@ -8,9 +8,9 @@
 
 C言語やPythonでなにかを作ったりLinuxをいじったりしてます。
 
-小6の夏休みの自由研究で、Krypton LinuxというLinuxディストロを作りました。今でも開発を続けてます。
+Krypton Linux作ってます
 
-そろそろまた一つなにか作り始めたいなーと思ってます。
+Arch Linuxを適当に使ってる人です。
 
 Contact: info@krypton-linux.com
 
