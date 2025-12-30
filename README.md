@@ -8,11 +8,9 @@
 
 C言語やPythonでなにかを作ったりLinuxをいじったりしてます。
 
-Krypton Linux作ってます
+最近は自作OSをやろうとしてます。
 
 Arch Linuxを適当に使ってる人です。
-
-Contact: info@krypton-linux.com
 
 ## 
 
