@@ -20,15 +20,6 @@ Arch Linuxを適当に使ってる人です。
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Itsuki0222&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
 
-食　べ　る　な　↓
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Itsuki0222/Itsuki0222/main/img/snake.svg">
-</picture>
-
-
 
 
 
